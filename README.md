@@ -5,9 +5,9 @@ requirements:
 - Arduino UNO R3 
 - LCD1602 with I2C: display text and time date
 - HC-05: bluetooth module
-- WS2812B: led RGB
+- WS2812B: RGB led
 - DS1307: real time clock
-- an Android phone: control led and LCD
+- an Android phone: led and LCD controller
               
 feature:
 - adjust brightness, color, mode for LED
