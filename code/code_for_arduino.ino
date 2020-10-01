@@ -16,7 +16,7 @@ RTC_DS1307 RTC;
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_RGB + NEO_KHZ800);
 
 String message;
-String message1 = "ELG";
+String message1 = "Eastern Laos";
 String power = "off";
 int mode = 0;
 int modeCount = 5;
